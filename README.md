@@ -36,12 +36,20 @@
 
 Actualmente me encuentro estudiando la tecnicatura en Tecnico en Analista de Sistemas .<br>
 <br>
-**Desarrollo web:**
+***Desarrollo web:***
 <br> 
-Tengo experiencia en la creación de interfaces web atractivas y receptivas utilizando HTML, CSS y JavaScript.<br>    
+Tengo experiencia en la creación de interfaces web atractivas y receptivas utilizando HTML, CSS y JavaScript.<br> 
+
 Estoy familiarizado con una variedad de herramientas front-end como React.<br>
-Tengo conocimientos en backend con diferentes herramientas de desarrollo como Node.js, express.js, php, mysql, mongodb.<br>
+
+Tengo conocimientos en backend con diferentes herramientas de desarrollo como Node.js, mysql.<br>
+
 Me apasiona crear código limpio, eficiente y fácil de mantener.<br>
+
+Mi sueño es poder trabajar en el hambiente del IT sea programando,diseñando,administrando pero siempre en el mismo hambiente. <br>
+
+Me considero una persona tranquila, paciente, que se adapta rapido al hambito laboral y a distintos estilos de aprendizajes como de lenguajes. <br>
+
 <br>
  
  </samp>
